@@ -27,16 +27,5 @@ Il s’adresse aux passionnés de firmware libre, aux chercheurs en sécurité e
 
 ---
 
-## Contribution
-
-Toutes les contributions, idées, retours et corrections sont les bienvenus !  
-Merci de respecter les bonnes pratiques de sécurité lors des opérations de flash et d’analyse.
-
----
-
-## Contact
-
-Valentin & Alix — un couple de passionnés de liberté logicielle et de découverte scientifique.  
-N’hésitez pas à ouvrir une issue ou discuter via le canal GitHub.
 
 
